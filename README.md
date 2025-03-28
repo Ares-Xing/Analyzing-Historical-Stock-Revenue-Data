@@ -1,5 +1,5 @@
 # Analyzing-Historical-Stock-Revenue-Data
-This is for the IBM Data Science Program: 
-     Class Name:Python Project for Data Science
-     Module: 1
-     Project Nmae: Analyzing Historical Stock/Revenue Data and Building a Dashboard
+1. **Data source**: Yahoo Finance API.  
+2. **Related techniques**: Web scraping, data cleaning, data analysis, data visualization, AI model building, and model evaluation.  
+3. **Tools**: Jupyter Notebook, VS Code with Jupyter extensions, y-finance, Python, Pandas, BeautifulSoup, Seaborn, Scikit-learn, Anaconda, API.
+4. **Conclusions**: Identified correlations between features and the target variable, visualized key data, Plotted important graphs.
